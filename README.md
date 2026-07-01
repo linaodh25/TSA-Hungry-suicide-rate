@@ -32,4 +32,4 @@ and forecast this trend.
 - `suicide-rate-who-mdb.csv` — WHO source data
 
 ## Tools
-Python, pandas, statsmodels, matplotlib
+R
